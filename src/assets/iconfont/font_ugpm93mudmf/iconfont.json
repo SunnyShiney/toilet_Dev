@@ -1,0 +1,121 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "688133",
+      "name": "笑脸 满意 服务",
+      "font_class": "xiaolianmanyifuwu",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
+      "icon_id": "4472964",
+      "name": "厕洗卫设备-蹲便器-1",
+      "font_class": "cexiweishebei-dunbianqi-",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "5950866",
+      "name": "哭脸",
+      "font_class": "kulian",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "5950872",
+      "name": "脸-s",
+      "font_class": "lian-s",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "6796693",
+      "name": "2_定位",
+      "font_class": "_dingwei",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6941232",
+      "name": "竖线",
+      "font_class": "shuxian",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8261667",
+      "name": "甲醛",
+      "font_class": "jiaquan",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "9040541",
+      "name": "人闸",
+      "font_class": "renzha",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "12331688",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "19990402",
+      "name": "硫化氢",
+      "font_class": "liuhuaqing",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "23079139",
+      "name": "湿度",
+      "font_class": "shidu",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "24270724",
+      "name": "卫浴",
+      "font_class": "weiyu",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "25716517",
+      "name": "PM2.5",
+      "font_class": "a-PM25",
+      "unicode": "ea32",
+      "unicode_decimal": 59954
+    },
+    {
+      "icon_id": "31850949",
+      "name": "icon-person-nan",
+      "font_class": "icon-person-nan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "31850959",
+      "name": "icon-person-nv",
+      "font_class": "icon-person-nv",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "32058071",
+      "name": "氨氮含氧量",
+      "font_class": "andanhanyangliang",
+      "unicode": "e8d0",
+      "unicode_decimal": 59600
+    }
+  ]
+}

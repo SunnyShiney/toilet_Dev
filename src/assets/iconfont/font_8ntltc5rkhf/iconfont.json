@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "31231064",
+      "name": "standing",
+      "font_class": "standing",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    }
+  ]
+}

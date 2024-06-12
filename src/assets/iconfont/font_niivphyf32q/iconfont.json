@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3207713",
+      "name": "pm2.5",
+      "font_class": "icon-pm",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3207734",
+      "name": "co2",
+      "font_class": "icon-co",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6849654",
+      "name": "挥发性有机化合物",
+      "font_class": "huifaxingyoujihuahewu",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7335548",
+      "name": "气压",
+      "font_class": "qiya",
+      "unicode": "eb31",
+      "unicode_decimal": 60209
+    },
+    {
+      "icon_id": "13280215",
+      "name": "低纸量",
+      "font_class": "dizhiliang",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "34742332",
+      "name": "PM10-绿-copy",
+      "font_class": "PM10-lv",
+      "unicode": "e8aa",
+      "unicode_decimal": 59562
+    }
+  ]
+}

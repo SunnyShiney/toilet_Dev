@@ -1,0 +1,36 @@
+{
+  "name": "toiletdev",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@vueuse/integrations": "^10.5.0",
+    "axios": "^1.6.0",
+    "echarts": "^5.4.3",
+    "element-plus": "^2.4.1",
+    "moment": "^2.29.4",
+    "nprogress": "^0.2.0",
+    "universal-cookie": "^6.1.1",
+    "video.js": "^8.6.1",
+    "vue": "^3.3.7",
+    "vue-router": "4",
+    "vue-tianditu": "^2.7.6",
+    "vue-video-player": "^5.0.1",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "stylelint": "^15.11.0",
+    "stylelint-config-standard": "^34.0.0",
+    "vite": "^4.5.0",
+    "vite-plugin-windicss": "^1.9.1",
+    "windicss": "^3.5.6"
+  }
+}
